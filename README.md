@@ -1,5 +1,5 @@
 <h1 align="center">ORCA OFFICIAL</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">Building Digital Solutions for the Future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orca-official&label=Profile%20views&color=0e75b6&style=flat" alt="orca-official" /> </p>
 
